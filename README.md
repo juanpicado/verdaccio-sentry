@@ -24,11 +24,11 @@ Feel free to contribute and add more properties if you need them.
 See the [verdaccio contributing guide](https://github.com/verdaccio/verdaccio/blob/master/CONTRIBUTING.md) for instructions setting up your development environment. 
 Once you have completed that, use the following npm tasks.
 
-  - `npm run build`
+  - `pnpm run build`
 
     Build a distributable archive
 
-  - `npm run test`
+  - `pnpm run test`
 
     Run unit test
 
